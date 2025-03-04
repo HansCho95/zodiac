@@ -1,0 +1,10 @@
+{
+  "name": "zodiac",
+  "version": "0.1.0",
+  "description": "Chat frontend optimized for roleplay",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
