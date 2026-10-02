@@ -1,6 +1,6 @@
 {
   "name": "zodiac",
-  "version": "0.1.35",
+  "version": "0.1.36",
   "description": "Chat frontend optimized for roleplay",
   "main": "src/index.ts",
   "scripts": {
